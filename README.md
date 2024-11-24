@@ -1,8 +1,8 @@
 
-# MOP Check(Mental Health Obesity and Pcos Check)
+# Health Checker
 
 ## Introduction
-MOP is a Django web application designed to provide various healthcare services online. It offers features such as mental disorder prediction, PCOS prediction, obesity prediction, appointment scheduling with doctors, and health report generation. Users can register, complete their profiles, and access the different health services provided by the platform.
+ Health Checker is a Django web application designed to provide various healthcare services online. It offers features such as mental disorder prediction, PCOS prediction, obesity prediction, appointment scheduling with doctors, and health report generation. Users can register, complete their profiles, and access the different health services provided by the platform.
 
 ## Installation
 1. Clone the repository:
@@ -42,11 +42,8 @@ MOP is a Django web application designed to provide various healthcare services 
 - Python: Backend programming language.
 - Pandas, NumPy, TensorFlow: Used for data processing and machine learning.
 - HTML, CSS, Bootstrap: Frontend technologies for the user interface.
-- Postgres: Database management system for storing user and health data.
+- sqlite: Database management system for storing user and health data.
 
-## Contributors
-- [Kelvin Wepo](https://github.com/Kelvin-Wepo)
-<!-- - [Contributor Name](https://github.com/contributor_username) -->
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
