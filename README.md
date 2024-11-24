@@ -7,7 +7,7 @@ MOP is a Django web application designed to provide various healthcare services 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kimutai004/MOP-Check-Mental-Health-Obesity-and-Pcos-Check-.git
+   git clone https://github.com/Kimutai004/Health_Checker.git
    ```
 
 2. Apply migrations:
